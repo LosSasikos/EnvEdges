@@ -1,0 +1,8 @@
+name: env-edges
+displayName: Environment's Edges
+subtitle: Adds edges to some environment blocks.
+description: Adds edges to some environment blocks: Grass, Moss, Spore Moss, Sand, Dark Sand, Salt, Snow and Ice.
+author: LosSasikos
+version: 1.0.0
+minGameVersion: 136
+hidden: true
